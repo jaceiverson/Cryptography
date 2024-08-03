@@ -1,0 +1,11 @@
+[tool.pytest.ini_options]
+pythonpath = [
+  "codes"
+]
+
+[project]
+name="jace-cyphers"
+version="0.0.1"
+
+[project.scripts]
+playfair="codes.playfair:main"

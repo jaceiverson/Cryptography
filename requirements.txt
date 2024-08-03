@@ -1,0 +1,5 @@
+pytest
+numpy
+python-dotenv
+rich
+. # self install for scripts
